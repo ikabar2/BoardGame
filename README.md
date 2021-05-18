@@ -2,7 +2,6 @@
 
 
 
-The Rules of the Game
 Connect-Five is a game made for two players. Each player has a total of 32 circular
 pieces. Each set is differentiated by colours; the A.I is yellow, and the user has red pieces. The
 board consists of eight vertical columns and eight horizontal rows. The pieces are placed from
